@@ -6,7 +6,7 @@
   "homepage": "https://diyarfaraj.github.io/speech-recognition-app",
   "scripts": {
     "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\"",
-    "deploy": "gh-pages -d index.html"
+    "deploy": "gh-pages -d index"
   },
   "author": "",
   "license": "ISC",
